@@ -28,25 +28,25 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/muhammedsinantk" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="ayoob-k-ibrahim" /></a>
-<a href="mailto:ayoobkibrahim01@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="ayoobkibrahim01@gmail.com" /></a>
+<a href="mailto:sinantkthonikadavath@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="ayoobkibrahim01@gmail.com" /></a>
 
 
  
 <img src="https://media.giphy.com/media/c8knYYZ5vzC8V6tpMI/giphy.gif" width="15" height="15"> *Github Stats:*
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayoobkibrahim/Ayoobkibrahim/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayoobkibrahim/Ayoobkibrahim/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ayoobkibrahim/Ayoobkibrahim/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sinan-TK/Sinan-TK/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sinan-TK/Sinan-TK/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sinan-TK/Sinan-TK/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
 <br />
 <details>
   <summary>📜 <b>Profile Summary</b></summary>
-  <a align="center" href="https://github.com/Ayoobkibrahim?tab=repositories">
+  <a align="center" href="https://github.com/Sinan-TK?tab=repositories">
     <p align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayoobkibrahim&theme=github_dark" alt="my github stats"/>&nbsp;
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sinan-TK&theme=github_dark" alt="my github stats"/>&nbsp;
     </p>
   </a>
 </details>
@@ -56,8 +56,8 @@
   <summary>📊 <b>Github Readme Stats</b></summary>
   <br />
   <p align="center">
-    <a href="https://github.com/Ayoobkibrahim">
-      <img align="center" width="430" src="https://github-readme-stats.vercel.app/api?username=Ayoobkibrahim&layout=compact&theme=radical&langs_count=6" />
+    <a href="https://github.com/Sinan-TK">
+      <img align="center" width="430" src="https://github-readme-stats.vercel.app/api?username=Sinan-TK&layout=compact&theme=radical&langs_count=6" />
     </a>
   </p>
 </details>
