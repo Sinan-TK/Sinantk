@@ -3,7 +3,7 @@
 </h1>
  <!--- <h3 align="center"></h3> --->
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/DbXSzkKLzy96e3uukf/giphy.gif">
+<img align="right" alt="coding" width="450" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JwNXZyYmZ0eGIybjZmYzZudXh5Y3lmY2p0OXYzMjBlbjFqMTE3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 
 
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20" height="20"> *About Me:*
@@ -19,9 +19,14 @@
  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="20" height="20"> *Languages & Tools:*
 
 <p align="center"> 
-<a href="https://dart.dev/overview" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://docs.flutter.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/docs" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="react" width="40" height="40"/> </a>
+<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> </a>
+<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> </a>
+<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
+<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> </a>
+<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="40" height="40"/> </a>
+<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40"/> </a>
+<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" alt="Node" width="40" height="40"/> </a>
+<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" alt="Leetcode" width="40" height="40"/> </a>
 </p>
 
  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="20" height="20"> *Reach out to me:* 
@@ -29,7 +34,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/muhammedsinantk" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="Muhammed Sinan T K Linkedin" /></a>
 <a href="mailto:sinantkthonikadavath@gmail.com" ><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="sinantkthonikadavath@gmail.com" /></a>
-<!-- [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:ayoobkibrahim01@gmail.com) -->
+
 
 
  
