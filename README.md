@@ -28,7 +28,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/muhammedsinantk" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="Muhammed Sinan T K Linkedin" /></a>
-<a href="mailto:sinantkthonikadavath@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="sinantkthonikadavath@gmail.com" /></a>
+<a href="mailto:sinantkthonikadavath@gmail.com" ><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="sinantkthonikadavath@gmail.com" /></a>
 <!-- [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:ayoobkibrahim01@gmail.com) -->
 
 
