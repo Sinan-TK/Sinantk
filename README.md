@@ -13,7 +13,7 @@
 
 
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-ge0rge&theme=radical"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sinan-TK&theme=radical"/>
 </p>
 
  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="20" height="20"> *Languages & Tools:*
