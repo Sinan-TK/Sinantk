@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=5f1885F&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+AYOOB+KI🚀;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=5f1885F&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+SINAN+TK🚀;" />
 </h1>
  <!--- <h3 align="center"></h3> --->
 
@@ -8,7 +8,7 @@
 
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20" height="20"> *About Me:*
 - 👨🏻‍💻 Student at Brototype
-- 💬 Ask me about *Flutter*
+- 💬 Ask me about *MERN*
 
 
 
