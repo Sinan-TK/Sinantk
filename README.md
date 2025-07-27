@@ -27,7 +27,7 @@
  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="20" height="20"> *Reach out to me:* 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ayoob-k-ibrahim" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="ayoob-k-ibrahim" /></a>
+<a href="https://www.linkedin.com/in/muhammedsinantk" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="ayoob-k-ibrahim" /></a>
 <a href="mailto:ayoobkibrahim01@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="ayoobkibrahim01@gmail.com" /></a>
 
 
