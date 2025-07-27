@@ -1,9 +1,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=5f1885F&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Sinan+TK🚀;" />
 </h1>
- <!--- <h3 align="center"></h3> --->
+<!--  - <h3 align="center"></h3> - -->
 
-<img align="right" alt="coding" width="450" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JwNXZyYmZ0eGIybjZmYzZudXh5Y3lmY2p0OXYzMjBlbjFqMTE3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="coding" width="500" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjUwbWt4Y2E0ejJlaDQ4aDczNG1tMXozdnZvZnBsMmllNHN2YjZiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20" height="20"> *About Me:*
