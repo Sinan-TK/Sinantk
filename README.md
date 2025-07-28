@@ -3,7 +3,7 @@
 </h1>
 <!--  - <h3 align="center"></h3> - -->
 
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjUwbWt4Y2E0ejJlaDQ4aDczNG1tMXozdnZvZnBsMmllNHN2YjZiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img align="right" alt="coding" width="400" src="">
 
 
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20" height="20"> *About Me:*
@@ -24,9 +24,9 @@
 
  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="20" height="20"> *Reach out to me:* 
 
-<p align="center">
-<a href="https://www.linkedin.com/in/muhammedsinantk" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="Muhammed Sinan T K Linkedin" /></a>
-<a href="mailto:sinantkthonikadavath@gmail.com" ><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="sinantkthonikadavath@gmail.com" /></a>
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sinaninsta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sinanlinked) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sinanmail) 
+
 
 
  
