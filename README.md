@@ -3,7 +3,7 @@
 </h1>
 <!--  - <h3 align="center"></h3> - -->
 
-<img align="right" alt="coding" width="400" src="">
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGE4NzYzam40OXR6YWFvOHpzaWRnaXRydXFwZ2JubTZ1YXN1d2lvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif">
 
 
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20" height="20"> *About Me:*
