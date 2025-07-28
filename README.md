@@ -8,7 +8,7 @@
 
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20" height="20"> *About Me:*
 - 👨🏻‍💻 Student at Brototype
-- 💬 Ask me about *MERN*
+- 💬 Ask me about *Web Development*
 
 
 
